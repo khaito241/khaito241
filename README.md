@@ -5,8 +5,9 @@
 
 ## I'm a Product lover, Entrepreneur, and a Leader!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
+- 🏙️ I'm currently planning, building, and shipping features at Holistics
+- 🌱 I’m want to learn everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Launch my new product
 - ⚡ Fun fact: I love coffee
